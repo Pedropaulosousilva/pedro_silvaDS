@@ -1,0 +1,24 @@
+/*seletor universal*/
+*{
+    background-color: powderblue;
+    color: white;
+}
+
+
+
+
+/*Estilização por nome de tag */
+h1{
+    background-color:beige;
+    color: black;
+}
+/*Estilização por seletor de classe*/
+.titulo{
+    background-color: cornsilk;
+    color: black;
+}
+/*Estilização por seletor de ID*/
+#destaque{
+    background-color: cornflowerblue;
+    color: darkblue;
+}
